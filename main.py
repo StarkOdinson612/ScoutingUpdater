@@ -14,22 +14,22 @@ if __name__ == '__main__':
         a, _, _ = detector.detectAndDecode(img)
 
         if a:
-            print("received qr code")
-            dat = a.split("\t")
-
-            print(str(dat))
-
             cv.putText(img, "Detected QR Code!", (200, 200),
                        cv.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255))
 
             cv.imshow("QRCODEscanner", img)
+
+            print("received qr code")
+            dat = a.split("\t")
+
+            print(str(dat))
 
             with open('current.csv', 'a') as f:
                 writer = csv.writer(f)
 
                 writer.writerow(dat)
 
-            sleep(7.5)
+            sleep(3)
 
             print("Starting cap again")
 

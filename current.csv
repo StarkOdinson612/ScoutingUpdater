@@ -1,4 +1,126 @@
-Rm,3,R1,5431,false,false,right,true,1,0,0,1,0,0,cube,false,false,2,3,0,0,2,0,SUBSTATION,2,false,DOCK ENGAGE,2,3,x,false,false,false,undefined
-JW,3,B1,5414,false,true,left,true,0,0,0,0,0,2,none,false,false,2,1,0,1,0,0,BOTH,7,false,DOCK ENGAGE,3,3,2,false,false,false,undefined
-IM,5,R3,2582,false,true,right,true,1,0,0,0,0,0,none,false,false,4,2,0,1,0,0,BOTH,7,false,DOCK,3,2,x,false,false,false,undefined
-MLM,3,B2,5414,false,false,left,true,0,0,0,0,0,2,cube,false,false,3,2,0,1,0,1,BOTH,0,true,DOCK ENGAGE,2,2,x,false,false,false,Shot a cube onto their teammates bot
+AK,46,6586,false,left,true,1,0,0,0,0,0,0,D,1,1,0,0,0,0,0,X,0,E,2,3,3,false,false,false,good defense bot
+AC,46,9085,false,right,true,0,0,0,0,0,0,0,X,0,0,2,0,0,0,0,GROUND,3,E,2,4,x,false,false,false,Slow
+KVN,46,8711,false,left,true,0,2,0,0,0,0,0,X,0,1,0,0,0,0,0,GROUND,3,D,2,4,3,false,false,false,Bad at pickup
+RM,46,1756,false,middle,true,0,0,0,0,0,0,0,D,3,3,1,0,0,0,1,GROUND,4,P,2,1,x,false,false,false,Pretty much filled up the grids
+DH,46,2637,false,middle,true,1,0,0,0,0,0,0,E,2,0,2,2,0,0,1,SUBSTATION,4,E,1,2,x,false,false,false,Fast and agile
+ST,46,2791,false,right,true,1,0,0,0,0,1,0,X,1,1,0,1,1,0,1,BOTH,5,D,2,2,x,false,false,false,👍
+KVN,47,6995,false,left,true,0,0,0,0,0,0,1,X,2,1,1,0,1,0,1,X,5,D,2,2,x,false,false,false,undefined
+DH,47,148,false,middle,true,1,0,0,0,0,0,0,E,1,1,2,1,3,1,1,SUBSTATION,7,D,1,1,x,false,false,false,Very fast and scores quick
+AK,47,1403,false,left,true,0,0,0,0,0,0,0,X,3,0,1,0,0,0,0,BOTH,0,E,2,2,2,false,false,false,Good with cones
+RM,47,3284,false,middle,true,1,0,0,0,0,0,0,E,1,0,1,0,0,1,2,SUBSTATION,5,E,2,1,x,false,false,false,"Good for filling out, not that good at avoiding def"
+AC,47,5687,false,right,true,1,0,0,0,0,1,0,X,2,1,2,1,1,0,0,BOTH,6,X,0,1,1,false,false,false,undefined
+ST,47,2451,false,right,true,0,0,0,0,1,0,0,X,1,0,0,0,3,2,2,X,0,X,0,1,x,false,false,false,"Dropped a good amount of pieces, but quickly filled bottom nodes"
+RM,48,8046,false,middle,true,0,1,0,0,0,0,0,E,3,0,1,0,0,0,0,SUBSTATION,6,E,2,2,4,false,false,false,Climbed a little early
+AC,48,3310,false,left,false,0,0,1,0,0,1,0,X,3,0,3,1,0,1,0,BOTH,5,X,2,1,2,false,false,false,undefined
+KVN,48,3749,false,right,true,1,1,0,0,0,0,0,X,2,0,1,1,0,0,0,BOTH,5,D,2,2,x,false,false,false,Decent scoring
+AK,48,5414,false,left,true,0,2,0,0,0,1,0,X,3,0,0,0,0,2,0,BOTH,3,E,3,2,2,false,false,false,Good at scoring cubes
+ST,48,3341,false,left,false,0,1,0,0,0,0,0,X,0,0,0,0,0,1,0,X,6,X,2,5,5,false,false,false,"Bad, got many penalties, messed up auto, didn't score like anything"
+DH,48,8177,false,left,true,1,1,0,0,0,0,0,X,2,0,3,1,0,1,0,SUBSTATION,5,D,2,2,x,false,false,false,Fast driving and good scoring
+DH,49,9016,false,left,true,0,1,0,0,0,0,0,X,4,0,0,0,0,0,0,BOTH,5,P,2,4,x,false,false,false,Slow at scoring and driving
+KVN,49,6652,false,middle,true,0,1,0,0,0,0,0,D,0,0,2,1,0,0,0,SUBSTATION,5,E,2,3,x,false,false,false,Slow scorer
+ST,49,2945,false,left,true,0,1,0,0,0,0,0,X,0,0,0,0,0,8,0,GROUND,5,E,2,1,1,false,false,false,Very good driver and fills out bottom node extremely fast
+RM,49,7042,false,middle,true,0,1,0,0,0,0,0,X,1,0,0,0,0,0,0,X,3,E,2,x,x,false,false,false,"Arm broke, not fair to rate driving after stopped moving"
+AC,49,333,false,right,true,0,1,0,0,0,0,0,X,1,2,0,0,0,1,0,BOTH,0,P,2,3,3,false,false,false,Slow intake off ground
+AK,48,840,false,left,true,1,0,0,0,0,0,0,X,2,0,0,0,1,0,0,SUBSTATION,3,E,2,3,3,false,false,false, likes to score cones 
+DH,50,6413,false,middle,false,0,0,0,0,1,0,1,E,0,0,0,0,1,1,1,SUBSTATION,5,E,3,3,x,false,false,false,Very slow
+KVN,50,818,false,right,true,1,1,0,0,0,1,0,X,2,0,0,0,0,4,0,BOTH,5,E,3,1,x,false,false,false,Impressive maneuvers and score ability
+AK,50,3847,false,left,true,0,0,0,0,0,0,0,X,2,1,0,0,2,0,0,BOTH,6,E,3,1,2,false,false,false,Great mobility with swerve. Can score feasibly well
+AC,50,4003,false,right,true,1,0,0,0,1,0,0,X,3,1,1,1,1,0,0,SUBSTATION,6,E,3,3,4,false,false,false,Got baited into a penalty
+ST,50,4392,false,left,true,1,0,0,0,0,0,0,X,1,1,3,0,0,1,0,BOTH,5,E,3,1,1,false,false,false,undefined
+RM,50,9015,false,middle,true,0,1,0,0,0,0,0,E,0,0,2,1,1,0,0,SUBSTATION,6,E,3,2,x,false,false,false,"Seemed like good comunication, weather it's spectrum 's doing it theirs"
+RM,51,343,false,middle,true,0,1,0,0,0,0,0,D,1,0,1,1,0,1,2,SUBSTATION,8,E,3,2,x,false,false,false,Good at filling out
+DH,51,325,false,right,true,1,1,0,0,0,0,0,X,2,2,2,1,0,1,0,BOTH,5,E,3,2,x,false,false,false,Decent driving and scoring slow auton
+CH,51,4253,false,left,true,1,1,0,0,0,0,0,X,2,0,2,1,0,2,0,BOTH,7,E,3,1,x,false,false,false,Very good!
+AK,51,4738,false,left,true,0,1,0,0,0,1,0,X,2,0,0,1,0,0,0,BOTH,8,E,3,2,2,false,false,false,Good scoring bot. Can also dock and engage very efficiently
+AC,51,3489,false,middle,false,0,0,0,0,0,1,0,X,0,0,0,0,0,0,0,X,5,E,3,4,3,false,false,false,"Failed to get on Charge station in auto, arm broken, bad defense"
+Zc,51,7021,false,left,false,1,0,0,0,1,0,0,X,2,1,2,1,1,0,0,BOTH,6,E,3,1,x,false,false,false,"Main scorer, awkward maneuverability bc of rectangle shape"
+RM,52,6348,false,right,true,1,0,0,0,0,0,0,X,2,1,0,0,0,0,0,SUBSTATION,4,E,3,4,x,false,false,false,"Got a penalty near the end, probably extended too far"
+Zc,52,9219,false,right,true,0,0,1,0,0,0,0,X,0,0,2,0,1,0,0,SUBSTATION,3,E,2,3,x,false,false,false,Slow.
+OC,52,3132,false,middle,false,1,0,0,0,0,0,0,X,2,0,0,0,1,0,2,BOTH,3,E,2,2,3,false,false,false,Dropped a lot of game pieces
+JE,52,1771,false,left,false,0,0,0,0,0,0,0,X,0,0,0,0,0,0,0,X,0,X,0,x,x,true,false,false,Died
+CW,52,1100,false,left,true,1,0,0,0,0,0,0,X,0,1,2,1,1,0,0,BOTH,4,E,3,2,x,false,false,false,Solid overall.
+AK,52,7220,false,middle,true,0,1,0,0,0,0,0,D,0,2,1,0,0,0,0,BOTH,4,E,3,3,3,false,false,false,Slow scoring but scored a lot good driving around
+RM,53,3008,false,right,true,0,0,0,0,1,0,0,X,0,0,0,1,1,1,0,GROUND,5,E,2,2,x,false,false,false,Not too good at grabbing pieces
+JE,53,4270,false,left,true,1,1,0,0,0,0,0,X,2,0,1,1,0,3,0,BOTH,0,E,0,x,x,false,false,false,
+CW,53,115,false,middle,true,0,0,0,0,1,0,1,E,4,2,0,0,0,1,0,BOTH,5,P,2,1,x,false,false,false,They kinda carried their team. Very good.
+Zc,53,9168,false,right,true,0,0,0,0,0,0,0,X,0,0,0,0,0,4,0,SUBSTATION,7,E,2,3,x,false,false,false,Slow.
+OC,53,3990,false,middle,true,1,0,0,0,0,0,0,E,3,1,0,1,0,0,0,BOTH,7,E,2,1,3,false,false,false,undefined
+CW,53,3526,false,left,true,0,0,0,0,0,1,0,X,0,0,0,1,0,3,0,BOTH,5,E,2,3,4,false,false,false,"Slow movement , only score in low and middle"
+RM,54,449,false,right,true,1,0,0,0,0,0,0,X,1,1,3,0,0,0,0,SUBSTATION,5,E,2,2,x,false,false,false,Got a penalty but I don't know what for
+OC,54,6647,false,right,false,0,0,0,0,1,0,1,X,0,0,2,1,0,0,0,BOTH,4,E,2,3,3,false,false,false,undefined
+Zc,54,4010,false,left,true,1,0,0,0,0,0,0,X,0,2,0,0,0,7,0,GROUND,3,E,2,2,x,false,false,false,"Fast, cubes shooter"
+JE,54,2199,false,middle,true,0,0,0,1,0,0,0,E,4,0,0,0,1,0,1,SUBSTATION,4,E,1,3,x,false,false,false,Inconsistent t3 scoring
+CW,54,8426,false,middle,true,0,1,0,0,0,0,0,E,0,0,0,1,1,1,0,BOTH,5,E,2,2,x,false,false,false,Bad intake game.
+CW,54,7565,false,left,true,0,1,0,0,0,0,0,X,3,1,0,2,1,0,1,BOTH,5,P,0,2,3,false,false,false,Slow movement but great scorong
+CW,55,4131,false,middle,true,0,1,0,0,0,0,0,E,1,0,2,0,3,1,0,SUBSTATION,7,E,2,1,x,false,false,false,Very good
+RM,55,5727,false,left,true,0,1,1,1,0,0,0,X,1,1,2,2,1,2,0,SUBSTATION,7,P,2,1,x,false,false,false,Very good at collection and placment
+JE,55,2370,false,left,true,0,1,0,0,0,0,0,X,2,1,1,1,0,0,0,SUBSTATION,4,E,1,1,x,false,false,false,Couldn't pick up cubes on ground
+CW,55,2637,false,right,true,1,0,0,0,0,0,0,X,3,0,2,0,0,1,1,BOTH,8,E,2,1,1,false,false,false,Very fast very god
+OC,55,8711,false,right,true,0,1,0,2,0,0,0,X,0,0,0,1,0,0,0,GROUND,4,P,2,3,1,false,false,false,undefined
+Zc,55,649,false,left,false,1,0,0,0,0,0,0,E,3,0,1,1,0,0,0,BOTH,4,E,2,2,x,false,false,false,Slow deposit
+RM,56,7534,false,middle,false,0,0,0,0,0,1,0,X,0,0,0,0,0,0,0,X,6,E,3,x,4,false,false,false,"Def bot, barely worked"
+KVN,56,302,false,left,true,1,0,0,0,0,0,0,X,1,1,2,1,0,1,1,X,4,X,0,2,x,false,false,false,It cross mid during auto
+DH,56,2791,false,right,true,1,0,0,0,0,1,0,X,2,1,2,0,0,0,0,SUBSTATION,6,E,3,2,x,false,false,false,Fast and consistent scoring
+Mc,56,5940,false,left,true,0,1,1,1,0,0,0,D,2,1,3,2,0,2,0,BOTH,6,E,3,1,x,false,false,false,Very fast and has a 3 piece + balance auto
+BV,56,2451,false,right,true,0,0,0,0,0,1,0,E,2,2,1,0,0,1,1,BOTH,5,D,2,2,2,false,false,false,Good
+MV,56,1403,false,middle,true,1,0,0,0,0,0,0,E,1,1,1,0,2,0,0,X,0,X,0,3,x,false,false,false,"2451 killed climb, little  confused when it comes to links"
+RM,57,1868,false,left,true,1,1,0,0,0,0,0,X,0,0,2,1,0,0,0,SUBSTATION,7,E,3,2,x,false,false,false,Struggle a bit
+BV,57,180,false,middle,true,1,0,0,0,0,0,0,E,1,1,0,1,1,0,0,BOTH,3,E,3,2,2,false,false,false,Pretty good
+DH,57,8177,false,middle,true,0,1,0,0,0,0,0,X,2,0,2,1,0,1,0,BOTH,7,E,3,1,x,false,false,false,Good.and fast cycling
+Mc,57,5414,false,right,true,1,0,0,0,0,1,0,X,2,0,2,0,0,1,0,BOTH,7,E,3,1,x,false,false,false,Good at lo g range low cube
+AF,57,9085,false,right,true,1,0,0,0,0,0,0,X,0,0,0,1,0,0,0,X,3,X,0,4,x,true,false,false,Got tangled and was bad driving and picking up cube
+MV,57,9019,false,left,false,0,0,0,0,0,0,0,X,0,0,0,0,0,2,0,GROUND,2,E,2,4,x,false,false,false,"Struggles, l1 only, slow"
+AF,58,840,false,left,false,0,0,0,0,1,0,0,X,0,0,0,0,0,0,0,X,2,X,0,x,x,false,false,false,Wasn't good then just went to charging station
+Mc,58,5901,false,left,true,1,0,0,0,0,0,0,X,2,1,3,0,0,0,0,X,6,X,2,2,x,false,false,false,undefined
+RM,58,7042,false,right,true,0,1,0,0,0,0,0,X,2,0,0,0,1,0,2,SUBSTATION,6,E,2,2,x,false,false,false,Quick and good at pick up
+MV,58,3616,false,right,true,0,1,0,0,0,0,0,X,0,1,3,1,1,0,0,SUBSTATION,4,E,2,1,x,false,false,false,Pretty good
+DH,58,8046,false,middle,true,0,1,0,0,0,0,0,E,1,0,2,2,0,0,0,BOTH,6,E,2,2,x,false,false,false,Decent driving and scores on top and middle levels
+BV,58,5907,false,middle,true,0,1,0,0,0,0,0,E,6,0,0,0,1,0,0,BOTH,4,P,2,1,2,false,false,false,Good driving good bot
+DH,59,3749,false,left,true,1,0,0,0,0,0,0,X,0,0,0,0,0,0,0,X,1,X,2,x,x,true,false,false,Died after teleop
+RM,59,3284,false,middle,true,0,0,0,0,0,0,1,E,0,0,0,0,0,4,0,X,2,E,2,2,x,false,false,false,Gathers and brings back pieces
+Mc,59,9015,false,right,true,0,0,1,0,0,0,0,X,0,0,1,1,2,0,0,BOTH,2,E,2,3,x,false,false,false,undefined
+MV,59,8739,false,right,true,0,0,0,0,1,0,0,X,0,0,0,0,3,2,0,GROUND,4,D,1,1,x,false,false,false,Could only push comes and cubes to bottom row
+AF,59,6652,false,middle,false,0,1,0,0,0,0,0,E,0,1,0,2,1,0,1,X,4,X,0,2,x,false,false,false,Fast
+BV,59,4003,false,left,true,1,0,0,0,1,0,0,X,3,0,2,0,1,0,0,BOTH,4,P,2,2,2,false,false,false,Very ginormicus.
+AF,60,6995,false,left,true,2,0,0,0,0,0,0,X,1,2,2,0,0,0,0,BOTH,5,X,2,1,x,false,false,false,Nice small but good
+MV,60,2945,false,right,true,0,1,0,0,0,0,0,X,0,0,1,0,0,6,0,GROUND,5,E,2,1,x,false,false,false,Pretty good but seems like it won't be able to get top row
+DH,60,3489,false,left,false,0,0,0,0,0,1,0,X,0,0,2,0,0,0,1,SUBSTATION,2,D,1,3,x,false,false,false,Slow and has hard time picking up objects and died.and came back.mid match
+BV,60,6413,false,middle,false,0,0,0,0,0,0,0,X,3,0,0,0,2,0,0,BOTH,5,E,2,2,3,false,false,false,"Good at the end, at the start it only did bottom"
+RM,60,9153,false,right,true,0,0,0,0,0,0,1,X,0,0,0,0,2,0,0,X,2,P,1,5,x,false,false,false,"Couldn't push well, got in the way, cost the team a balance rp"
+Mc,60,4253,false,left,true,1,0,0,0,0,0,0,X,2,1,1,0,0,0,1,BOTH,0,D,2,1,3,false,false,false,undefined
+AK,61,6329,false,left,true,2,0,0,0,0,0,0,X,1,0,3,2,0,0,0,X,3,E,2,3,3,false,false,false,Good bot at scoring a mix of cube and cone
+CW,61,148,false,left,true,1,1,0,0,0,1,0,X,2,1,2,2,1,0,0,BOTH,5,E,3,1,x,false,false,false,Very good and fast
+BB,61,333,false,middle,false,0,1,0,0,0,0,0,E,4,1,0,0,0,0,0,BOTH,0,E,3,1,x,false,false,false,undefined
+KVN,61,3132,false,right,true,1,1,0,0,0,0,0,X,0,1,0,0,0,4,0,BOTH,0,E,2,1,x,false,false,false,Great at scoring cubes
+Zc,61,6868,false,right,false,0,0,0,0,0,0,0,X,0,0,0,0,0,3,0,GROUND,5,E,3,3,x,false,false,false,"Very slow, can score all 3 levels but not quickly"
+ST,61,4392,false,middle,true,1,0,0,0,0,0,0,X,2,0,3,0,0,1,0,SUBSTATION,9,P,2,1,x,false,false,false,"Played very well, consistent"
+KVN,62,9016,false,left,true,0,1,0,0,0,0,0,X,0,1,1,0,1,0,0,X,0,X,0,x,x,false,true,false,Probably scored only cones
+Zc,62,8393,false,middle,false,0,1,0,0,0,0,0,X,3,1,1,0,0,0,0,SUBSTATION,6,E,3,2,x,false,false,false,Decent maneuverability
+BB,62,4738,false,right,true,1,0,0,1,0,1,0,X,1,0,3,0,2,0,0,BOTH,6,E,3,1,x,false,false,false,Very consistent and quick
+CW,62,4788,false,left,true,0,0,0,0,1,0,1,X,1,1,1,1,0,0,0,SUBSTATION,6,E,3,2,x,false,false,false,Sketchy intake but overall alright
+ST,62,9219,false,right,true,0,0,0,1,0,0,0,X,0,0,1,0,0,2,0,BOTH,2,D,1,4,x,false,false,false,Didn't perform very well at all. Scored/ moved little and got a fine stuck underneath and couldn't get it out
+AK,62,1100,false,middle,false,1,0,0,0,0,0,0,E,2,2,0,0,0,0,0,BOTH,3,P,0,3,3,false,false,false,Decent bot good at scoring top
+Zc,63,3310,false,left,true,0,0,1,1,0,0,0,X,3,2,1,1,0,0,0,BOTH,6,E,3,1,x,false,false,false,"Fast, efficient, sleek. "
+CW,63,6358,false,right,false,0,0,1,0,0,0,0,X,0,0,1,1,0,0,0,SUBSTATION,5,E,3,2,x,false,false,false,Very slow to score and grabe
+AK,62,6998,false,left,false,0,0,0,0,0,1,0,X,0,0,0,0,0,0,0,X,2,E,3,4,2,false,false,false,Just defended did decent
+ST,63,1756,false,right,false,0,1,1,1,0,0,0,X,4,0,0,0,2,1,0,BOTH,3,E,3,1,x,false,false,false,Played very well. Can pick up pieces quickly and scores just as well. W team
+BB,63,818,false,middle,true,1,0,0,0,0,0,0,E,2,1,1,0,0,0,0,BOTH,5,E,3,2,x,false,false,false,Got a penalty for being in other community
+JE,63,7220,false,left,true,0,1,0,0,0,0,0,E,2,1,0,0,0,2,0,X,5,E,3,2,x,false,false,false,Did well but was slow
+BB,64,6348,false,right,true,1,0,0,0,0,0,0,X,2,0,0,0,1,0,1,BOTH,4,E,3,3,x,false,false,false,Tippy
+CW,63,4766,false,left,true,0,1,0,0,0,0,0,X,0,0,0,0,0,6,0,GROUND,4,E,3,1,x,false,false,false,Only could do bottom cubes
+ST,64,5687,false,right,true,1,0,0,1,0,0,0,X,1,1,2,1,0,0,0,BOTH,5,P,2,1,x,false,false,false,Played consistently
+JE,64,7890,false,left,true,1,0,0,0,0,0,0,E,3,0,0,0,3,0,1,SUBSTATION,5,E,3,1,x,false,false,false,Strong bot
+RM,64,3847,false,left,true,0,0,1,1,0,0,0,X,3,0,1,0,1,0,0,BOTH,5,E,2,2,x,false,false,false,Struggled with the cable bump
+Zc,64,343,false,middle,false,0,1,0,0,0,0,0,X,2,1,0,0,0,0,0,SUBSTATION,4,E,3,3,x,false,false,false,"Auto runs into charge station. Slow, big"
+KVN,65,325,false,left,true,1,1,0,0,0,0,0,X,2,0,3,1,0,1,0,X,4,E,2,1,x,false,false,false,Good maneuvering and fast scoring
+BB,65,6586,false,right,true,0,1,0,0,0,0,0,X,0,0,0,0,0,0,0,X,3,E,3,4,5,false,false,false,🐌slow
+RM,65,3341,false,right,true,0,1,0,0,0,0,0,X,0,0,0,0,0,0,0,X,5,P,2,x,x,false,false,false,"Ignore this one, I got distracted by mason"
+CW,63,399,false,middle,true,0,1,0,0,0,0,0,D,0,1,0,0,0,7,0,BOTH,5,E,5,1,x,false,false,false,Primary bottom cube
+ST,65,1771,false,left,true,1,1,0,0,0,0,0,E,2,0,1,0,0,1,1,BOTH,5,E,2,1,x,false,false,false,Played well. Lost a bunch of momentum mid game but then got it back
+Zc,65,7021,false,left,true,1,1,0,0,0,0,0,X,5,0,2,0,0,0,0,BOTH,6,E,3,2,x,false,false,false,"Pretty fast, swerve, claw"
+CW,66,1868,false,left,true,1,1,0,0,0,0,0,X,1,0,2,2,1,0,0,BOTH,4,E,3,2,x,false,false,false,Pretty good
+KVN,66,449,false,right,true,1,1,0,0,0,0,0,X,1,1,2,1,0,2,0,BOTH,6,E,3,1,x,false,false,false,Superb maneuvering and versatile fast scoring
+RM,66,2370,false,middle,true,0,1,0,0,0,0,0,X,0,0,2,1,0,1,0,SUBSTATION,6,E,3,2,x,false,false,false,Could be faster
+Zc,66,1403,false,middle,false,1,0,0,0,0,0,0,E,3,1,0,0,0,0,0,SUBSTATION,4,E,3,2,x,false,false,false,Slower
+BB,66,9085,false,right,true,0,0,0,1,0,0,0,X,0,0,0,0,0,3,0,BOTH,4,E,3,3,x,false,false,false,Flimsy intake
+ST,66,4270,false,left,true,1,0,0,0,0,0,0,X,2,0,2,3,0,0,0,BOTH,6,E,3,1,1,false,false,false,undefined
